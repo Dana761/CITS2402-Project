@@ -1,0 +1,11 @@
+STRUCTURE,STRUCTURE_ID,STRUCTURE_NAME,ACTION,CEN23_TBT_HOH_001,Variable codes,CEN23_YEAR_001,Census year,OBS_VALUE,Observation Value,OBS_STATUS,Observation Status
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th10,"Dwelling owned or partly owned, mortgage arrangements not further defined",2023,2023,85416,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th30,"Dwelling held in a family trust, mortgage arrangements not further defined",2023,2023,22074,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th31,"Dwelling held in a family trust, mortgage payments made",2023,2023,74586,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th11,"Dwelling owned or partly owned, mortgage payments made",2023,2023,511308,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th32,"Dwelling held in a family trust, mortgage payments not made",2023,2023,100452,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th999,Not elsewhere included,2023,2023,423,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th12,"Dwelling owned or partly owned, mortgage payments not made",2023,2023,381381,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th22,"Dwelling not owned and not held in a family trust, rent payments not made",2023,2023,37212,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th20,"Dwelling not owned and not held in a family trust, rental arrangements not further defined",2023,2023,1701,,,
+DATAFLOW,STATSNZ:CEN23_TBT_003(1.0),"Totals by topic for households, (NZ total), 2013, 2018, and 2023 Censuses",I,th21,"Dwelling not owned and not held in a family trust, rent payments made",2023,2023,565974,,,
